@@ -1,6 +1,42 @@
-## Hi there 👋
 
-<!--
+# Heading 1 h1
+## Heading 2 h2
+### Heading 3 h3
+
+`Heighlighted text`
+
+**Bold Text**
+
+*italic*
+
+![img_alt](./)
+
+[!About Me](http://google.com/search/?g=digitaldreamsng)
+
+<p>this is a html paragraph inside md</p>
+
+- list item 1
+- list item 2
+- list item 3
+- list item 4
+
+|age|Name|description|address|
+
+|----|----|-----|-------|----|
+
+|17|🧔 okeke Rosemary|fair,fair,|awka anambra state
+
+
+
+
+
+
+
+
+
+
+## Hi there 
+<!
 **zinnyajagu/zinnyajagu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
