@@ -1,7 +1,18 @@
 
+
+
+
+
+
+
+
+
 # Heading 1 h1
 ## Heading 2 h2
 ### Heading 3 h3
+#### Heading 4 h4
+##### Heading 5 h5
+###### Heading 6 h6
 
 `Heighlighted text`
 
@@ -26,7 +37,15 @@
 
 |17|🧔 okeke Rosemary|fair,fair,|awka anambra state
 
+```
+//script.js
 
+const d = document;
+
+d.addEventListener('DOMContentLoaded',()=>{
+d.querySelector(
+
+```
 
 
 
