@@ -1,22 +1,6 @@
- Hi ✋, I am Lucy Ezinne!
+ Hi ✋, I'm zinnyajagu!
  
  <img src="./tech 2.jpg" width="100%" height="30%">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -44,6 +28,7 @@
 ## Tech Stack
 ![](https://img.shields.io/badge/web2.0-Html5-orange).
 ![](https://img.shields.io/badge/web2.0-CSS-red).
+
 
 ## Projects
 
