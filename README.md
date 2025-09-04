@@ -1,6 +1,6 @@
  Hi ✋, I am Lucy Ezinne!
  
- <img src="./tech 2.jpg">
+ <img src="./tech 2.jpg" width="100%" height="30%">
 
 
 
