@@ -1,6 +1,6 @@
  Hi ✋, I am Lucy Ezinne!
  ![photo](./tech 2.png)
- <img src"./y-co
+ <img src="./tech 2.png">
 
 
 
