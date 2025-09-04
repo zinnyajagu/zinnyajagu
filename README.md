@@ -1,5 +1,5 @@
  Hi ✋, I am Lucy Ezinne!
- ![photo](./y-tech 2.png)
+ ![photo](./tech 2.png)
  <img src"./y-co
 
 
