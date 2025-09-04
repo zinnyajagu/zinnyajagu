@@ -16,6 +16,10 @@
 
 
 
+
+
+
+
 <details> 
 <summary>Web Design</summary>
 <P>
@@ -38,8 +42,8 @@
 </details>
 
 ## Tech Stack
-![](httpps://img.shields.io/badge/web2.0-Html5-orange).
-![](httpps://img.shields.io/badge/web2.0-CSS-red).
+![](https://img.shields.io/badge/web2.0-Html5-orange).
+![](https://img.shields.io/badge/web2.0-CSS-red).
 
 ## Projects
 
