@@ -28,8 +28,8 @@
 ## Tech Stack
 ![](https://img.shields.io/badge/web2.0-Html5-orange).
 ![](https://img.shields.io/badge/web2.0-CSS-red).
-
-
+![](https://img.shields.io/badge/web2.0-Bootsrap-blue).
+![](https://img.shields.io/badge/web2.0-Javascript-yellow).
 ## Projects
 
 
